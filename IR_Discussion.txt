@@ -1,0 +1,8 @@
+1;Don't bother me, I want to be alone;1;
+2;Ok, I'll leave you alone;-1;
+3;Why, what is your problem?;5;
+4;Fine, I'll be on my way then.;-1;
+5;I don't want to talk about it.;5;
+6;Sure, I am no shrink anyway.;-1;
+7;I have no time to waste with you in that case.;-1;
+8;Ok, You clearly want to be alone, I'll be on my way then.;-2;
